@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Resilio Sync
+Comment=Resilio Sync (ex:BitTorrent Sync) - automatically sync files via secure, distributed technology
+Icon=/home/fenglengshun/.local/share/icons/resilio-sync.png
+Type=Application
+Exec=/usr/bin/rslsync --nodaemon --config /home/fenglengshun/.config/rslsync/rslsync.conf
+Categories=Utility

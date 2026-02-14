@@ -1,0 +1,2 @@
+[Context]
+filesystems=xdg-documents;xdg-run/discord-ipc-0:create;home

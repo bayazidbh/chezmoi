@@ -1,0 +1,5 @@
+[Context]
+devices=all;
+filesystems=home;
+shared=!network;
+sockets=cups;

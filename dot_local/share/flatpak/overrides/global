@@ -1,0 +1,14 @@
+[Context]
+filesystems=xdg-config/gtkrc:ro;xdg-config/gtkrc-2.0:ro;xdg-config/gtk-2.0:ro;xdg-config/gtk-3.0:ro;xdg-config/gtk-4.0:ro;xdg-data/icons:ro;~/.icons:ro;~/.themes:ro;~/Storage:rw;xdg-config/MangoHud:ro;/opt/gtk-nocsd/libgtk-nocsd.so:ro
+
+[Environment]
+GTK_THEME=WhiteSur-Dark-solid
+GTK_THEME_VARIANT=dark
+LD_PRELOAD=/opt/gtk-nocsd/libgtk-nocsd.so
+
+[Session Bus Policy]
+org.kde.kconfig.notify=talk
+org.kde.StatusNotifierWatcher=talk
+org.kde.KGlobalSettings=talk
+com.canonical.AppMenu.Registrar=talk
+com.feralinteractive.GameMode=talk

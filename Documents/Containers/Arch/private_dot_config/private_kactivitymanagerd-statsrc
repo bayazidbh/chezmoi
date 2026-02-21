@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-93b23140-88a8-4de3-9772-f7c0a5301cbd]
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:discord.desktop,applications:org.kde.kate.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:brave-browser.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:discord.desktop,applications:org.kde.kate.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:brave-browser.desktop

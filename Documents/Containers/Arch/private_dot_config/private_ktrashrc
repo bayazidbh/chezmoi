@@ -1,0 +1,6 @@
+[/home/fenglengshun/.local/share/Trash]
+Days=30
+LimitReachedAction=1
+Percent=10
+UseSizeLimit=true
+UseTimeLimit=true

@@ -1,0 +1,31 @@
+[ContentDisplay]
+DirectorySizeMode=ContentSize
+UsePermissionsFormat=NumericFormat
+
+[DetailsMode]
+LeftPadding=0
+PreviewSize=16
+RightPadding=0
+
+[General]
+DynamicView=true
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=true
+ShowFullPath=true
+ShowStatusBar=FullWidth
+ShowZoomSlider=true
+Version=202
+ViewPropsTimestamp=2026,1,26,23,3,28.435
+
+[IconsMode]
+PreviewSize=144
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,glycin-heif,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,glycin-svg,svgthumbnail,ffmpegthumbs,exe-thumbnailer,gsf-office

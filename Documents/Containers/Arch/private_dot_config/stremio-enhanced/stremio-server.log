@@ -1,0 +1,66 @@
+Cannot update settings ENOENT: no such file or directory, open '/home/fenglengshun/Documents/Containers/Arch/.stremio-server/server-settings.json'
+hls executables located ->  {
+  ffmpeg: '/usr/bin/ffmpeg',
+  ffsplit: null,
+  ffprobe: '/usr/bin/ffprobe'
+}
+Using app path -> /home/fenglengshun/Documents/Containers/Arch/.stremio-server
+Enabling casting...
+(node:47661) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+(node:47661) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+EngineFS server started at http://127.0.0.1:11470
+hls-converter - Initiating tests for hardware accelerated transcoding support, possible options: qsv-linux,nvenc-linux,vaapi-renderD128
+hls-converter - Testing video hw accel for profile: qsv-linux
+EngineFS HTTPS endpoint at https://local.strem.io:12470
+(node:47661) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+-> GET /hlsv2/11470-qsv-linux-video-hevc.mkv/video0.m3u8?mediaURL=http%3A%2F%2F127.0.0.1%3A11470%2Fsamples%2Fhevc.mkv&profile=qsv-linux&maxWidth=1200 
+-> GET /samples/hevc.mkv bytes=0-
+(node:47661) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+-> GET /samples/hevc.mkv 
+Error: stream ended
+    at Socket.onFinished (/home/fenglengshun/Documents/Containers/Arch/.config/stremio-enhanced/streamingserver/server.js:77544:145)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at Socket.bound (node:async_hooks:245:16)
+    at Socket.<anonymous> (node:internal/util:565:20)
+    at Socket.onfinish (node:internal/streams/end-of-stream:116:16)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:489:12)
+    at finish (node:internal/streams/writable:955:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+-> GET /hlsv2/11470-qsv-linux-video-hevc.mkv/destroy 
+hls-converter 11470-qsv-linux-video-hevc.mkv has been requested to be destroyed
+hls-converter 11470-qsv-linux-video-hevc.mkv destoyed
+hls-converter - Tests failed for [video] hw accel profile: qsv-linux
+hls-converter - Some tests failed for hw accel profile: qsv-linux
+hls-converter - Testing video hw accel for profile: nvenc-linux
+-> GET /hlsv2/11470-nvenc-linux-video-hevc.mkv/video0.m3u8?mediaURL=http%3A%2F%2F127.0.0.1%3A11470%2Fsamples%2Fhevc.mkv&profile=nvenc-linux&maxWidth=1200 
+hls-converter 11470-qsv-linux-video-hevc.mkv will be destroyed due to passing concurrency of 1
+-> GET /samples/hevc.mkv 
+Error: stream ended
+    at Socket.onFinished (/home/fenglengshun/Documents/Containers/Arch/.config/stremio-enhanced/streamingserver/server.js:77544:145)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at Socket.bound (node:async_hooks:245:16)
+    at Socket.<anonymous> (node:internal/util:565:20)
+    at Socket.onfinish (node:internal/streams/end-of-stream:116:16)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:489:12)
+    at finish (node:internal/streams/writable:955:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+-> GET /hlsv2/11470-nvenc-linux-video-hevc.mkv/destroy 
+hls-converter 11470-nvenc-linux-video-hevc.mkv has been requested to be destroyed
+hls-converter 11470-nvenc-linux-video-hevc.mkv destoyed
+hls-converter - Tests failed for [video] hw accel profile: nvenc-linux
+hls-converter - Some tests failed for hw accel profile: nvenc-linux
+hls-converter - Testing video hw accel for profile: vaapi-renderD128
+-> GET /hlsv2/11470-vaapi-renderD128-video-hevc.mkv/video0.m3u8?mediaURL=http%3A%2F%2F127.0.0.1%3A11470%2Fsamples%2Fhevc.mkv&profile=vaapi-renderD128&maxWidth=1200 
+hls-converter 11470-nvenc-linux-video-hevc.mkv will be destroyed due to passing concurrency of 1
+-> GET /samples/hevc.mkv 
+-> GET /samples/hevc.mkv bytes=0-
+-> GET /hlsv2/11470-vaapi-renderD128-video-hevc.mkv/destroy 
+hls-converter 11470-vaapi-renderD128-video-hevc.mkv has been requested to be destroyed
+hls-converter 11470-vaapi-renderD128-video-hevc.mkv destoyed
+hls-converter - Tests passed for [video] hw accel profile: vaapi-renderD128
+hls-converter - All tests passed for hw accel profile: vaapi-renderD128
+hls-converter - Tests for hardware accelerated transcoding finished, supported acceleration profiles: vaapi-renderD128
+Resizing cache size to 2048MB from 0MB by deleting 0 files

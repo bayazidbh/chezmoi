@@ -1,0 +1,16 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/resilio-sync.webp
+File2[$e]=$HOME/Downloads/375_2.png
+File3[$e]=$HOME/Documents/Sync/.H/Etc/holo-teasing-ride.jpg
+Name1[$e]=resilio-sync.webp
+Name2[$e]=375_2.png
+Name3[$e]=holo-teasing-ride.jpg
+
+[SideBar]
+InformationSplitterSizes=211,244

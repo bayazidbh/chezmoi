@@ -1,0 +1,1284 @@
+Ending Summary/NG+ explanation:
+NG+ explanation:
+NG+ can be started any time in H memory area by interacting with red pentagram near the entrance of it.
+You first mark a save file as NG+ there. This save file BECOMES UNUSABLE FOR ANY PURPOSE ASIDE OF NG+ START!
+Then a new 'New Game+' shows up in title menu of the game. Click it then select save file to start NG+ from.
+
+You lose:
+1- You lose all your levels and all permanent stat boosts you received from consumables and other means(basically you are reverted to default level 1 stats)
+
+2 - entirety of H status(reverting back to 1 kiss/virgin)
+
+3 - majority of consumables/herbs. This includes permanent stat books so there is 0 reason to keep them.
+
+4 - all quest progression resets
+
+You keep:
+All equipment and their forging(aside of the weapon/accessory that's required for main quest progress)
+
+Absolutely everything in game respawns and can be gotten 2nd time.
+
+Ending/Route summary:
+Game has 2 routes and 5 endings across them.
+
+So the route split itself can be entirely missed as it's fully optional and highly missable.
+In fact for that reason the entirety of route split will be described here as I simply can't put it anywhere inside main quest section due to it's RNG element.
+
+So how exactly does route split work?
+1) When you EXIT any dungeon - you have a CHANCE to get a cutscene involving Matthias(Prince) which will result in a battle against him.
+This is fully RNG and can be save/loaded. It's basically possible that nothing will happen and a chance for his encounter to happen. Chance is pretty high once it can happen.
+However it won't trigger by beating boss of area and being forced out of dungeon via that.
+Can confirm it can happen as late as right before killing final Northern Snowpeak boss. And shortly after that it's no longer available.
+As for how early it can happen - certainly after eastern district unlock but might actually be earlier.
+
+2) Now onto the battle itself - it is normally pretty tough if you get it early but about on par with Northern Snowpeak bosses tier otherwise.
+Winning it PREVENTS you from entering Prince Route and gives you 'Research on Keys' item which is basically otherwise a reward for entering prince route and then successfully beating it.
+
+Losing it gets you saved by mayor who will answer some questions about Prince and allows entering the Prince Route.
+
+3) If you lost to Prince - to actually enter his route you need to let Trina 'walk around' at night(basically skipping her request at high Mana Thirst). This will cause a scene to happen where she is captured by Prince.
+This step is also RNG and can be prevented with reloading or simply not letting Trina wander around at night by always kissing her before day end.
+The game continues in a bit special way in Prince's manor if you enter this route.
+The goal of the route is to basically either lose the final fight against Prince there for one of 2 endings of that route or winning against prince to get back into main route.
+
+It's technically possible to enter Prince Route and exit it with Trina remaining a virgin.
+
+My guide does not contain details about prince route itself as it's a type of gameplay that's easier to experience rather than guide through. And it's a bit buggy even in latest version(when guide was made) so some things that are issue when I wrote the guide could have become non issues in some future and I can't guarantee I will return to the game after some patches, which would only serve to confuse people more. Main route has considerably less problems and almost no such issues.
+
+Demon Lord Slayer Route endings:
+1) Beat Demon Lord without fulfilling ending 2-3 conditions.
+2) Beat Demon Lord as Virgin - this ending allows you to unlock all H CG in the gallery.
+3) Beat Demon Lord with Corruption 3+.
+
+Prince Route endings:
+During this route your MC is basically trying to save Trina from Prince.
+Route eventually concludes with a fight against prince - winning against prince reverts you back into 'Demon Lord Slayer' Route while losing gives 1 out of 2 endings.
+1) Losing battle against Prince with under 3 corruption.
+2) Losing with 3+ corruption or reaching corruption 4.
+
+If you want to see maximum amount of 'gameplay' - you would want to enter Prince Route and then 'win' it and proceed into demon lord slayer route.
+
+Scene Unlocking:
+Normally unlocking all scenes is unreasonable. One way to unlock all scenes is by doing 'virgin ending' and then interacting with white haired version of Trina in the H room.
+Another way is to download my save files.
+Save file 1 is made inside fully unlocked gallery.
+
+Tips and mechanic explanations:
+1) Time System:
+Game has a system of 'time' - the time in the game is separated into Morning, Noon, Evening and Night.
+There are also the 'days of the week' but those are much less important. Most difference is it being a weekend or not.
+Some actions take certain amount of time.
+Some NPCs only appear at certain time.
+Some actions are only available at certain time.
+
+For example adventuring can only be done from morning and will take until evening.
+
+Your actual time in the game is infinite. This means you could technically just skip days by training up your characters in training grounds to become much stronger but it's generally never required normally with good weapon choices.
+
+Night time is somewhat special.
+At night you can patrol western district for 'drunks' with whom you can usually either fight, use awaken/cleanse potion or call the guard on them.
+Generally speaking fight/potion usage is 'better' option while calling guard is 'at least something'.
+Those mostly reward Effort + materials. The amount of effort crystals can be pretty good.
+
+Normally if you manually select to wait until night - it can be a 'regular' night with nothing special.
+If you are however 'forced' into night despite deciding to sleep until next day - you will wake up and be told something is happening. This is basically a hint that 'Trina' went on an 'adventure' that night.
+If you talk with NPCs - you will get a hint where she was. This hardly matters in reality. Sometimes she leaves behind 'memories' at certain places but those will stay spawned forever after they appeared, even in the morning, so there is no particular need to explore with MC at night.
+
+2) MP/TP System:
+MC and Trina both have MP.
+MC consumes it indirectly in the fight while Trina consumes it directly.
+MC recovers full MP each night.
+Trina only recovers MP by optionally consuming leftover MP from MC during the night or letting her roam at night to 'steal' MP from other townsfolk.
+
+In combat MC instead uses TP.
+You start each combat turn with 5 TP and automatically have 5 MP consumed for that.
+You can spend all TP on same turn.
+Each next turn start you will spend 5 MP(even if you had full TP) to fully recover your TP. This is automatic and can't be avoided.
+
+If you start combat with 0 MP - you still get 5 TP for 'free' but once turn ends - you automatically lose if you didn't beat the enemies.
+
+Potentially this means that if you can keep winning battles in 1 turn - you can keep fighting even with 0 MP on your MC.
+
+Upon losing battle - Trina loses some MP but there is no other penalty of sorts, dungeon exploration just ends and it becomes evening as if you simply returned from the trip to dungeon.
+
+3) Combat 'Stagger' System:
+Enemies have 'stagger' orbs upon fully destroying which the enemy will skip the current turn.
+
+If enemy is 'defending'(shield icon) - it will not do anything next turn but it will also take 1 less toughness damage. That means skills with 1 toughness damage won't affect the enemy stagger gauge at all.
+It can actually make sense to leave enemy who is at 1 stagger and defending alone to actually interrupt it's offensive turn on next turn. Assuming you can't finish battle instantly of course.
+
+Some bosses can also have shield passively.
+Green shield is the icon in that case. It's permanent tough damage prevention(sometimes it gets removed/decreased upon stagger).
+You can usually check details of such 'green shield' by hovering your mouse over it.
+
+4) Buffing/Debuffing - all buffs/debuffs stack additively. You can have anywhere from 50% debuff to 200% buff.
+Any debuff basically substracts from this and any buff adds to this.
+Duration is extended if new cast is supposed to last longer. So if you got means to do those each turn - you can reach 200% buffs easily over time. Nothing in the game truly requires that as all battles can be finished in 2 turns with optimal build.
+
+5) Try to explore dungeons fully. They are relatively short and contain small 'out of main path' areas with usually decent rewards. Plenty of materials or crystal of efforts(weapon upgrade currency) or even some accessories/sub weapons.
+Almost NOTHING in the game respawns out of loot. Once you got resource out of something aside of a 'repeatable node' which consumes stamina. Once something is looted - it's gone forever basically.
+Enemies are a bit more complex. They do have some respawn system. But it's not trivial and very rarely happens, so you are likely to explore entire dungeon without enemies respawning. A few enemy spots respawn upon area change however, but that's pretty rare.
+
+6) Enemies can be 'backstabbed'(technically also side stabbed, the key idea is that enemies don't see you) if you approach them without them seeing you.
+If you won 3 battles in a single turn in that dungeon - this will instant kill the enemies.
+If you didn't - it will start battle with enemy staggered.
+
+If you 'instant win' - you get no EXP but still get items if they dropped.
+
+7) You can press 'cancel' button to change who is having a turn in combat.
+This can be pretty important element of strategy.
+This does NOT skip turn of other character and can be done at any time.
+
+8) Crystal Bracelet info:
+Crystal bracelet is what allows you to see details of different aspects of Trina's 'H Status'.
+There are 4 levels(5 if we include 0) and 6 crystal bracelet level ups(so 2 'extra', but one is missable)
+You start at 0 by default.
+
+There are certain locations which can reward you with a 'level up' for it.
+It does NOT matter in which order you find those. You will simply get the level up.
+If you are already at level 4 and find such chest - you instead get 20 weapon upgrade currency.
+
+Here are all locations for level ups.
+1 - first adventure area(western forest accessed from west part of North District). SW corner in that area near first 'commission' sidequest boss.
+
+2 - inside hot springs area of the brothel in eastern district. Entering it requires Lloyd to be alone. You will be able to stay alone as MC by doing church charity work with Trina.
+
+3 - inside hidden room of 'Ruins'(dungeon which is past 'Dusk Forest' dungeon). In my 'Ruins' main quest guide I name it as area 5 of the ruins.
+
+4 - this one is permanently missable. It's during 'casino infilitration' stealth mission.
+
+5 - Northern Snowpeak dungeon area 9 NE corner. For area by area walkthrough - check main quest section.
+
+6 - Demon Lord Castle eastern section. Can't really be missed as it's on the main quest path.
+
+9) Respawning of things + infinite gathering spots:
+Enemies respawn but the system for respawn is very weird. A few enemy spots might also respawn on each area swap but such spots are rare.
+None of the 'loot' respawns.
+However there are a few spots where you can infinitely gather specific set of materials:
+Ores+Shrooms - Abandoned Mine(western forest from western district) area 3(tent area) - hidden room in the west through the wall.
+Herbs - Adventure Plains(northern exit from northern district) - NE corner.
+Other Herbs+Seeds - Dusk Forest(eastern exit from eastern district) - area 2 hidden area behind the cave.
+Advanced Ores - Northern Snowpeaks area 2 NW corner(normally accessed from area 7 but if you opened up shortcut it has connection with area 1 NW shack), alternatively access it via area 11 'fast travel' point(Snowpeak Mid-Area) and traveling 1 area south from there.
+
+10) Corruption explanation:
+Corruption is relatively simple in this game.
+If you select 'H status' - you can check the 'mana thirst' on first page.
+This is amount of mana that needs to be 'satisfied' for Trina. Either by MC or someone else.
+If you decide to end day by pleasuring Trina with MC - then she is fully 'safe' and nothing else will happen.
+If you decide to end day by 'skipping her request'(simply going to sleep without kissing her) - with high mana thirst she will leave on an 'adventure' at night during which she will get some of her mana thirst relieved.
+
+You can check the amount of mana thirst she satisfied via others via page on the right of H status menu(requires level 1 crystal bracelet)
+
+Corruption level 2 should happen when she drains ~300 from others.
+
+Easy way to increase mana thirst is to create mana catalyst > restore mana via 'mana overflow'. Repeat the process until satisfied. This will massively increase your mana thirst. It can stack infinitely this way.
+
+The corruption/awakening gauge itself is the 'purple' gauge when you enter the menu. With pink representing the mana thirst.
+
+Generally speaking fastest way to increase her awakening/corruption is by doing 'massage', working at jobs which will have some 'H'(guild early on then bar), staying on east district until evening and sleeping at inn there.
+
+Keeping her uncorrupted would be exact opposite, but strictly speaking just kissing her before sleep should pretty much prevent all her H roamings.
+There is also a teddy bear you can grab which decreases awakening gauge by 1 point each day in Ruins dungeon library area.
+
+There are a total of 3 'awakening' levels + special 4th one which is only available in Prince Route and leads to one of the endings there.
+
+Main Quest:
+1) Searching for Clues - first part of this main quest is simply visiting a few key locations in the town. I recommend exploring the town fully so you memorize roughly where everything is. It's a pretty big town but it's also the only one in the game.
+You can explore all aside of eastern portion in the entirety of the game.
+Feel free to check side quest section at same time, they are sorted by availability.
+
+The rest of the quest requires you to explore abandoned mine dungeon(entrance from 'western forest' area which is accessed from western town exit)
+There are some cutscenes as you proceed into new areas.
+
+Dungeon has a bunch of loot if you fully explore it and is fully linear.
+
+The moment you enter area 3 - a fight starts against 2 skeleton shieldbearers and 1 skeleton crossbowman. Shieldbearers can take 1 damage from MC if your weapon power is low. Those also take big damage from Trina's light bullet.
+
+Once fight is won - you will see a tent. Tents are essentially a quick way to end dungeon and return to town without actually losing to enemy. They also serve as new 'Entrance Point' into dungeon.
+You also get new weapon for Trina. The weapon has an AoE to almost instant win those undead fights by itself.
+
+There is a hidden tunnel to the west of area 3 with some materials.
+
+Area 4 requires you to trigger 5 'stoneplates' to progress into next area. Order doesn't matter.
+
+Area 5 is roughly separated into 2 parts - southern and northern.
+Northern part has 3 'stone slabs' which remove blockades from both south and north path.
+Southern path is mostly just optional loot. the easternmost path to the south has 'secret area' with a statue you can reach by climbing down in place with 'blood' hanging under cliff.
+However there is also secret in the area itself. Interact with place 2 tiles south and 2 tiles east if counting statue tile as first tile. You will find mysterious small key. I found no use for this key even after doing the entirety of this guide.. so if there is one, it's likely well hidden.
+
+3rd stone slab opens path to area 6.
+
+Area 6 is just a small boss fight room. Be aware boss follows same rules as regular fights, so if you lack MP - you auto lose on turn 2.
+Boss and his group are undead so Divine Arbiter will handle it easily even if MC is still weak for you.
+Boss rewards Corroded Greatsword weapon and Dark Mace Priest's Ring.
+You also get access to new main quest area.
+
+Beating boss concludes the dungeon and you automatically leave it!
+After you are out of dungeon - report quest to Mayor(house west of church)
+
+After submitting quest to major - the eastern part of town finally opens up and the 1st main quest concludes.
+
+2) Dark Forest - quest starts by telling you to visit Morris in eastern district.
+It can only be visited in morning or noon.
+Be aware that concluding the quest will make it evening, so it's best to do something until noon first.
+
+Morris is in NE corner house.
+With him - you have 2 possible ways to proceed:
+1 - His initial request: 3 holy water. Doing this simply proceeds quest. Holy water is gained by working at church.
+2 - His alternative request by asking him for something else - simply visiting brothel. This will leave a 'memory item' in his shop signifying something happened with Trina but it's nothing significant.
+
+I didn't find any significant difference in either, so I recommend just doing alternative request as it's much quicker.
+
+Regardless of how you finish his request - time will change to evening regardless of if it was morning or noon.
+To leave east district at evening you need to bypass 'checkpoint'.
+Normally you do it either via bribe or simply sleeping it out in the inn of eastern district.
+But during this 1st time Mayor will help you out and let you leave for free.
+Once you have 'pass' - you are actually free to travel in/out for the rest of the day.
+
+Your next goal is crafting 'Flamejet Flask'. The only ingredient you might find tricky if you wasted it is blastfruit for the essences. Blastfruit is one of the few 'respawnable' loots. It's looted from western forest in NW corner. Around the place you found the weapon for Treasure Map quest.
+
+Now that you crafted it - you can get into dusk forest dungeon from eastern exit of east district.
+
+Dusk Forest dungeon:
+Area 1 - has chest in NE corner with Straight Sword. There is also hidden path south of it leading to some loot and 'Phantom Mushroom'.
+Exit to area 2 is in NW corner.
+
+Area 2 - has 2 secrets:
+1 - The cave blocked by vines in the middle of the area leads into place with 'quick travel' house and there is also a bunch of lootables both in and out of house. Also a herb gathering spot.
+2 - SW corner can be reached via hidden path in the forest directly south from area 3 entrance. It has chest with bow for Trina.
+Area 3 entrance is in NW corner.
+
+Area 3 - pretty small straightforward area, has a secret west of entrance to area 4. Has phantom mushroom + a chest with some materials.
+
+Area 4 - you get warning about boss fight against a tree.
+If you are having trouble with bosses - read up 'weapon' section, Hidden Edge Greatsword specifically and level it up. Pretty much almost nothing can survive 2 turns from it.
+Area itself has no secrets so just move onto area 5.
+Entering area 5 starts another main quest.
+
+Area 5 - 2 chests + phantom mushroom in this tiny area. Also optional 'lore' notes. Go inside ruins to continue.
+
+3) Ruins - this starts as simple continuation of previous quest inside Dusk Forest as you enter area 5 there.
+I will list 'ruins' as separate dungeon and start with it's first area as Area 1.
+
+Area 1 - starting area, you have 2 choices where to go: through door or downstairs.
+I will call the 'door' option as area 2 since it's single area. And the Area 3 will be path downstairs.
+
+Area 2 - this is the eventual goal of the dungeon. But you can grab a sword and read some lore there first.
+
+Area 3 - some loot here. To the south there is a 'standing skeleton'.
+This is copy of boss from Abandoned Mine with stronger skeleton group. He drops 'Ancient Templar Armor' and blocks way to a hidden treasure room to the south. It contains ruins key, a bunch of materials and some lore notes.
+This is actually what's required to 'progress', but I will cover remaining 'optional' areas.
+Take path further downstairs to enter area 4.
+
+Area 4 - a library of sorts. A bunch of minor interactables here like rabbit, firecamp and some books.
+Out of important things:
+The small treasure chest has 'Tiny Sickle' subweapon for MC but it will set your MC HP to 1.
+The 'teddy bear' can be picked up and will reduce Trina's H status awakening points by 1 each day.
+There is also a pretty well hidden 'secret area', I will call it area 5 for convenience, it's near the 'pillar' on NE corner by going east.
+
+Area 5 - a tiny room with a door and a chest which upgrade Crystal Bracelet. Door does nothing right now(it's accessable eventually once you reach flying castle)
+
+Area 6 - make way all the way back to area 2 and head north to open previously locked door with key from hidden treasure room to enter this area.
+West part of map has chest with purification ring.
+From where you found ring - go west and clockwise through the map to reach the boss of this dungeon.
+Boss fight against Ooze. It has 1 tough resist for first time you break it after which it's removed. I assume the ring helps with something on this boss if it gets to move... but if it dies in 2 turns then it won't move.
+Drops gemstone(random tier 2 gem) and rune of plague(your first XL sized gem which gives a skill that uses 5 MP and 2 TP to debuff both ATK/DEF to enemy frontline)
+
+Just like previous time - beating the boss automatically ends the dungeon and makes you leave it. In version I made the guide(1.0.9) - time stays morning but you will move forward an extra day when you make any time change. This will also restore entire MP for MC.
+
+Talk to Morris(the NE corner house guy in east district) to get the next main quest.
+
+4) Color of the Stars - you are told to visit the casino for the Ruby.
+You can temporarily enter it even with Trina. Talk to the receptionist in casino and then to the guy blocking a door at the back of the casino.
+You will be told that he will sell it for 200k.
+Now that's where you got some choices. You could normally earn 200k(corrupted trina would help a bit, but generally it's a matter of spamming some works) but that's the 'worse' choice.
+The 'optimal' choice is talking to Morris again. He will help you sneak into Casino for 3 'phantom mushrooms' you could find in Dusk Forest dungeon. If you visited all hidden areas I mentioned - you should have 4 of those mushrooms. They have no other use so might as well do this.
+
+I will assume you decide to infiltrate casino via mushrooms for Morris which gives you access to otherwise missable stealth mission dungeon with a bunch of loot I will describe.
+During dialogue with Morris - your choice doesn't really matter, it's just a tiny flavor text difference.
+Your goal will be entering 'warehouse' from docks. Entrance is marked with 'teal arrow' pointing inside warehouse. It's directly east from building where you can do the 'dock' work. Easily accessed by going east between that building and checkpoint building.
+If you get caught during this stealth mission - you will 'fail' and have no choice but to pay 200k, no retries(unless you reload of course)
+
+Stealth Mission:
+I will lead you through a path that grabs all treasure.
+
+Area 1: Throw Left > Grab Chest with 2.5k > Throw Top > To get blue chest - step onto tile near the guard, it's a 'blind spot'. After that feel free to throw vase to bottom to skip him easily.
+
+Area 2: Start by going through north path.
+There is guard who is moving around, learn his pattern and slip into middle room. Middle room has Crystal Bracelet level up chest, blue treasure chest with a gem + vase. Ignore vase for now.
+Let's visit SW room to grab treasure there: Throw to the right and run very fast past the guard, he will return really fast. Now throw left to return back to middle room. In the middle room you now need to throw the vase to the right and slip past the south guard who is on patrol into area 3.
+
+Area 3: NW corner has chest with a bunch of materials. SW from it is small blue chest with a gem and SW corner has 'Fool's Gold Rapier' weapon. All those chests are only a matter of bypassing patroling guards.
+Now make your way into SE corner by bypassing the south patrol guard via timings.
+In SE corner - the guards a bit north change their view amount so you can slip past them at certain moment. Get the tiny treasure chest and approach the vase and throw it to the left. Now backtrack and bypass the guards you just distracted to reach NE corner. Throw vase to the left to reach the final portion of the map. Grab southern chest first for 2 pairs of stockings. Northern tiny chest has the ruby which automatically ends the stealth mission.
+
+Regardless of how you got the ruby:
+Craft the 'Star Disk' quest item in alchemy.
+You opened up new dungeon called 'Northern Snowpeak' - entering it will start next main quest.
+
+5) To The Ends of Earth - starts upon entering Northern Snowpeak dungeon from northern district.
+In this dungeon open areas there will be 'frostbite' system. As you walk - you will stack a certain 'debuff'. It's honestly pretty harmless and is removed upon approaching any 'campfire'.
+
+Area 1 - a bunch of chests you can grab but the only important one is near the big 'ogre' enemy - Snow Overcloak armor. It's a nice improvement to Hunter armor if you were still using that one.
+The exit to area 2 is in SW corner. You can also open iron gate from behind for a shortcut.
+
+Area 2 - a bunch of loot you can grab, out of important stuff there is Ancient Blade in NE corner.
+Small enemies here drop ~500 silver. And the ogre enemy drops gems.
+The NW corner area you see is not accessable right now.
+Exit to area 3 is in SW corner.
+
+Area 3 - just a short tunnel towards area 4, no secrets.
+
+Area 4 - this area has nothing special but it has 2 exits.
+I will mark SW exit as area 5 and NE exit as area 6.
+
+Area 5 - this is a tiny room with a Jade Dragon optional boss. This is probably strongest enemy you faced so far. Even +99 hidden edge greatsword will likely deal 1 damage when it's not staggered and not debuffed.
+Generally speaking - do the usual of 5 might stack preparation turn 1. Then on turn 2 instead of adding extra 2 might stacks - do the 'debuff' skill from plague XL gem(socket it)
+Then do the usual cyclone slash into heavy slashes. Trina can further improve your sequence with 'acceleration field' on priest staff.
+This will likely take it down turn 2.
+This boss drops Shining Sun staff for Trina. It's essentially a drastically more powerful copy of 'Divine Arbiter'
+
+Area 6 - a bunch of chests here and 2 exits yet again:
+NE exit(area 7)
+SW exit(area 8)
+
+Area 7 - the exit here leads you back into area 2 NW corner you couldn't previously access.
+I will describe that small portion of area 2 here:
+There is infinite ore gatherable spot.
+The ladder up leads back into area 1 for a massive shortcut.
+Path forward is main quest progression. Let's call it 'Area 11' for convenience. If you want to do optional loot gathering - backtrack to area 8 however.
+
+Area 8 - SE corner has lava forged blade and an exit towards area 9.
+
+Area 9 - contains the treasure chest with Crystal Bracelet level up(or 20 effort if you already have level 4)
+
+Area 10 - a tiny area with locked door. It's accessable later.
+
+Area 11 - it contains a hut which ends up a teleportation shortcut if you visit it.
+
+Area 12 - has another one of the 'locked doors' in NW corner. A pretty long but linear area otherwise. You basically need to make your way to NW corner by going counterclockwise.
+In NW corner - you can build a 'shortcut' near the campfire here. And the chest near campfire has 'mana pendant' which is pretty amazing for Trina.
+
+Area 13 - purely final boss room. Touch icon to fight the boss when you are ready.
+This one will inevitably take at least ~25 MP from MC to beat it. Possibly more. Can't exactly 'burst it'.
+The boss has 2 form(2 fights in a row).
+1st form has passive tough resist but it has rather low HP/Defences compared to optional bosses you could have fought.
+2nd form is ultra sturdy normally. 'Normal damage' will likely deal 1 damage. And 'powerful' damage will deal damage but likely only when enemy is staggered. But it only has 3 stagger orbs and 0 resist to tough and will lose 25% HP after each stagger turn ends. That being said it kinda sucks if you are pretty low on MP of MC.
+
+Now you can activate the monument in this room to enter Demon Lord castle.
+After visiting the castle - you can now open the 4 'glowing doors'.
+
+Glowing door dungeon locations(area number is the one used in my main quest guide so just use it to navigate if you have problems):
+1 - Abandoned Mine
+2 - Ruins
+3 - Northern Snowpeak area 12 north from entrance(the area near wolf boss).
+4 - Northern Snowpeak area 10(volcano dungeon)
+
+You only need 2 of them done(you need to alchemize the key and bosses of those dungeons drop material for that) for main quest but I will cover them all fully.
+
+4 Door Dungeon Walkthrough:
+Those are pretty complex dungeons so I will call same 'map' as different area if it's a separate 'segment'. you can't access in any other way.
+
+I won't detail bosses since if you are using Flame Emitting Straight Sword - you should have very easy time.
+If you didn't yet manage to forge up that one then hidden edge should work just fine as well.
+
+Abandoned Mine Door Dungeon:
+It's in Area 2 of the Mine a bit east from the entrance(from area 1) where the 'spider' sidequest boss was.
+Guide might look a bit clunky in this one. I will only add portals excluding the 'main sequence of areas' to avoid a bit clutter.
+Let's say green portal from area 4 leads to area 5 - I won't list it in area 5 is what I mean.
+
+Generally speaking - I will expect you to proceed linearly forward in the order of areas I mention.
+When you need to backtrack to reach next area - I will mention it.
+
+If you want to only rush boss without extra loot:
+Rush towards area 8 then area 17 > 19.
+
+Area 1 - 3 portals.
+Green = area 2
+Red = area 3
+Blue = area 5
+
+Area 2 - chest + stairs + blue portal.
+Blue Portal = area 3
+Stairs = area 15
+
+Area 3 - chest + 2 portals
+Red simply leads back to area 1
+Blue = area 4
+
+Area 4 - portal + stairs
+Green = area 5
+Stairs = dead end empty area
+
+Area 5 - chest + 2 portals
+Blue leads back to area 1
+Red = area 6
+
+Area 6 - stairs only to area 7
+
+Area 7 - chest + 4 portals.
+Northern Blue = area 8
+Southern Blue = area 9
+Green = area 14
+Red = area 16
+
+Area 8 - 2 chests(1 has fire spirit ring) + stairs + portal
+Green = area 9
+Stairs = area 17
+
+Area 9 - chest(spider sceptre) + stairs + portal
+Blue is back to area 7
+Stairs = area 10
+
+Area 10 - chest + 2 portals
+Green = area 11
+Blue = area 16
+
+Area 11 - portal + stairs
+Blue = area 12
+Stairs = area 15
+
+Area 12 - chest + portal
+Green = area 13
+
+Area 13 - chest + stairs
+Stairs = area 14
+
+Area 14 - 2 portals
+Green is back to area 7
+Blue = Area 15
+
+Area 15 - chest + stairs + portal
+Green leads to empty stair room which leads to area 11
+Stairs lead back to area 2
+
+Feel free to skip area 16 as it's empty - your next goal is area 8 stairs, to reach it from area 15:
+Go to area 11 via stairs > Green to end up in area 10 > Stairs to reach area 9 > Green to end up in area 8
+Take the stairs in area 8 to reach area 17.
+
+Area 16(empty) - 1 portal(blue) leading to area 10
+
+Area 17 - 2 portals + chest.
+Northern Red = area 18
+Southern Red = area 19
+
+Area 18 - dead end with a chest.
+
+Area 19 - leads linearly to the boss.
+Boss room has a portal leading back to entrance. It's back and forth use, so feel free to activate it.
+Behind boss is an XL rune on the throne for wind element.
+
+Ruins Door Dungeon:
+You need to enter Dusk Forest then navigate until you reach 'Ruins' dungeon. In the ruins dungeo go downstairs until you reach library and into the hidden'ish room which had crystal bracelet level up(area 5)
+
+In this dungeon you can immediately see the door but you first need to activate 4 orbs to unlock it.
+There are no 'regular enemies' in this dungeon. As usual - there is teleporter in boss room... albeit in this one it's not too helpful.
+
+Area 1 - entrance, initially you can only go east into area 2.
+
+Area 2 - can only take stairs into area 3 for now.
+
+Area 3 - in this area you face your first 'golem puzzle'
+It's pretty trivial so I won't give exact solution. Basically golem can 'rotate' a set of tiles when standing on 'non colored' tile.
+You want to create a path for your party. Golem needs to return into his 'spawner' for you to get control of your party again.
+
+NE corner has Dragon Claw Necklace accessory near the 'lantern'.
+SE corner is where orb is located.
+After activating orb - take teleporter nearby and bactrack to area 1.
+This time head west into area 4
+
+Area 4 - only one path forward into area 5 which is downstairs in NW corner.
+
+Area 5 - Waterfall has chest with DEF +5 permanent stat book
+SW corner is your goal.
+Use teleporter and backtrack to area 2 and into NE corner to reach area 6.
+
+Area 6 - this one is a bit more complex golem puzzle.
+First goal is creating road towards 2nd golem controller place. It will be done through 'eastern' tiles.
+
+Second goal is making it to southern central area.
+There is a treasure chest along the way which requires separate 'road setup' with EATK +5 permanent stat book.
+The actual main path would need you to walk through 'western' tiles.
+Take teleport and backtrack to area 4 and this time take SW stairs into area 7
+
+Area 7 - this one has no golem. Instead the tiles automatically move. Only those around the ones without color rotate.
+On 'non colored' tile it's basically safe to stay since it's the part which does not rotate.
+Only MC needs to 'stay afloat'.
+
+There is one 'patrol' tile which moves behind waterfall to the north. It leads to treasure chest with ATK +5 permanent stat book. It will need you to time your 'movement' well not to fall. Best done with sound.
+
+Main goal is through southern route. Remember that you can save the game if you find some late part difficult.
+Once you climb up and get past the 2 'big floating platforms' - I recommend saving the game once you are on the small one.
+Once you activate 'center tile' on it - it will start moving. Ideally always stay on white color as it will sometimes change direction and that's the only guaranteed safety tile. You might fail a few times but once you remember route - it will be easier.
+Climb the next ladder up to get into next section.
+
+This new section has 2 treasures - both accessed via 2 big platforms.
+1 - hidden chest you might have seen on your way. To reach it - drop down through the obvious looking gate to the south of big platforms. That place has permanent stat book with +5 DEF.
+2 - take the 2nd big platform north into what looks like 'golem spawner'. This area has chest with +5 HP permanent stat book.
+The main goal is heading west via fast moving platform. It moves slightly faster than your sprint.
+You got through all hard parts now. Just jump through 2 'special' squares and reach western stairs. Take them into area 8.
+
+Area 8 - purely elevator room leading to an orb, you don't need to do anything aside of interacting with elevator.
+Now take elevator back into area 7.
+It might be a bit hard to notice but there is teleport directly north of the stairs. It leads back to entrance of area 6. Use it and backtrack to area 1 to reach boss room.
+
+Behind the boss on the throne is XL gem 'Rune of Stone' which gives Meteor Impact skill. It's a massive physical damage frontline AoE with 10 MP/1 TP cost. MP cost is massive but for pure firepower with AoE this one is actually solid.
+
+Northern Snowpeak area 12 Door dungeon:
+This dungeon has some 'ice floor' puzzles. You can simplify them with Trina's mana but I will give normal solution.
+Puzzles are the 'orbs' which which teleport you into mini puzzle area.
+Once puzzle is solved - return via orb and a path will open up, usually containing some chest.
+
+Area 1 - SE corner has a puzzle. Solution: Down > Left > Up > Right > Right > Down > Left > Up > Right > Down
+Reward: Ice Crystal shell accessory.
+Area 1 has 2 exits(not counting shortcut gate blocked exits):
+Southern exit is literally a loop back into area 1 with nothing special inside it(opens shortcut into NW corner of area 1 which has no practical use) so I won't cover it. Feel free to run through it, it's super short but fully empty.
+
+Make your way into area 2 which is north stairs from where you started.
+
+Area 2 - this area has 2 exits + a puzzle. Let's start with puzzle:
+To start the puzzle activate 2 orbs on left/right. Solution:
+Up > Up > Left > Down > Right > Down > Right > Up > Left > Up > Right > Up > Right > Up > Left > Down > Left > Up > Left > Down > Right > Up > Right > Down > Left > Left > Down > Right > Down > Left > Up > Left > Down > Right > Up
+Reward: Mana Pendant accessory
+Onto next areas: let's name stairs down 'Area 3'. Stairs up is empty dead end so I won't even name it.
+Visit area 3 first.
+
+Area 3 - has a puzzle + 2 stairs up.
+Puzzle: Right > Up > Left > Up > Right > Up > Right > Up > Left > Down > Right > Down > Left
+Reward: Mana Pendant accessory.
+Let's name southern stairs - 'Area 4', northern stairs - 'Area 6'.
+
+Area 4 - simple path towards area 5.
+
+Area 5 - has a puzzle, otherwise it's a dead end.
+Puzzle: Left > Down > Right > Up > Right > Up > Left > Up > Right > Down > Left > Down > Right > Down > Left > Left > Down > Right > Up > Left > Down > Right > Up > Right > Down > Left
+Reward: Ice Silk Glove accessory
+
+Area 6 - has a puzzle and exit to area 7.
+Puzzle: Up > Right > Down > Down > Left > Up > Right > Down > Right > Up > Left > Left > Up > Right > Down > Right
+Reward: Shortcut to area 1(NE stairs there)
+Optionally open shortcut but proceed to area 7.
+
+Area 7 - only puzzle.
+In puzzle simply proceed counterclockwise while jumping over pillars to start it.
+Puzzle: Down > Down > Left > Left > Down > Right > Up > Right > Down > Right > Down > Right > Up > Left > Up > Right > Down > Right > Down > Right > Up > Left > Down > Right > Down > Left > Up > Left > Down > Left > Up > Left > Up > Right > Up > Left > Up > Left > Up
+Puzzle pretty long so slight separation for comfortable reading - you are currently below blue gem of the pillar north of teleporter.
+Right > Right > Up > Up > Left > Down > Down > Right > Up > Right > Down > Left > Up > Left > Down > Left > Up > Left > Left > Down > Down > Right > Up > Right > Down > Right > Down
+Reward: path to boss room.
+
+Enter the boss room and create teleporter towards it by interacting with 'yellow sparkles'. It connects back to area 1 entrance. Assuming you followed the guide - you have covered all optional content of the dungeon so no reason to delay it.
+
+Rune of Frost on the throne behind boss which is XL rune which grants ice element skill(ends up in special tab)
+
+Northern Snowpeak area 10(volcano) Door Dungeon:
+This dungeon has 'moving arrow' system and sometimes you can manipulate 'colored' arrow.
+
+Area 1 - start by heading into the middle southern arrow.
+You can grab 3 chests to the east then go NE corner and put arrow 'up' then take eastern arrow and take eastern arrow to reach treasure chest with gun materials. Touch the arrow changer and head back.
+Now backtrack and head west this time through SW corner.
+There are are a total of 3 stairs you can find here:
+1st stairs - area 2
+NW stairs - area 4
+NE stairs - area 9
+
+Let's take 1st stairs into area 2 first.
+
+Area 2 - small area leading into area 3.
+
+Area 3 - small area with one button. We will need it for the future. Touch the button twice(the pink arrow must face west)
+You can check if you did it correctly by heading east. You will see the pink arrow I talk about.
+
+Return to area 2 and now we take NW stairs to area 4.
+Set the blue arrow near the 1st stairs 'facing down' to proceed into NW stairs.
+
+Area 4 - take middle arrow north. Now let arrows point north and head north to reach 2nd arrow toggle. Set arrow to the west to reach 2 chests with a bunch of materials. Now simply go north twice to reach NE corner and head into area 3.
+
+Area 5 - go east through the middle to reach platform then east again to reach arrow toggler. Trigger it to become 'teal'(should be 1 press by default)
+Now head back and again onto 1st platform. This time head south from 1st platform to reach area 4.
+
+Area 6 - Touching orb opens up western portion of the map.
+Western section:
+Take southern arrow to end up in platform with 3 buttons + statue.
+Statue transforms one arrow into another for a limited time. Skip it for now, let's grab chests first.
+Press orange(western) and red(eastern) button once and head west to reach a chest with firearm components.
+Head north from chest and then east to end up near the other chest.
+Head back to place with 3 buttons. Press blue(middle) one once then press statue.
+Now quickly take same route. There is almost 0 time leeway. Even a second delay is too much.
+Press orb to open up eastern section.
+
+Eastern section:
+This area has timed arrows. Save game after each arrow if you are worried.
+Take first arrow up. Second arrow must be taken to the east. Third arrow to the south.
+You are now on platform which decides if you go for chest or orb.
+Chest:
+Heading SE, arrows here have very tiny correct timing window. They are South > West > East to grab chest. Chest has advanced firearm components.
+Orb:
+Return to the bigger platform and this time head west and save the game before the final west travel into the orb.
+You opened final northern section now. To quickly return to start - go east then north from orb.
+
+Northern Section:
+If you take the long path into SW corner here - there will be a chest with shiny gem.
+In this section - statue will spawn an orb which needs to travel the whole way to reach you.
+Each switch has only 2 positions and you can change initial position to minimize the interactions you need to do. Some won't even need switching from correct position as they only have one arrow. Those which have 2+ arrows ALWAYS want to be instantly switched once orb gets past the arrow as the other arrow is always in wrong position after that.
+I recommend saving game after the long green arrow line as next part needs some fast action.
+Touching orb opens southern section. Southern section has one orb and stairs. Touch the orb to open up the boss area.
+Stairs lead into area 7.
+
+Area 7 - skip stairs(they technically are alternative way to reach area 9) and take middle arrow to the west.
+Remember how we switched the button all the way back in area 2? Well, it finally pays off and you can reach the chest here.
+Going further past chest leads into area 8.
+
+Area 8 - boss room. Take teleporter to create shortcut.
+Feel free to kill the boss first.
+Probably a bug but the chest behind this boss on the throne has Rune of Plague XL gem in version I made guide on(v1.0.9)
+That's the first XL rune you got from the Forest Ruins boss.
+
+Optional chest gathering:
+Only non important stuff in those chests, so feel free to skip.
+Once you return to area 1 - it's time to make way into NE corner. For that put the blue arrow east and take it towards the stairs leading into area 9.
+
+Area 9 - take middle arrow west and press button so red arrow face south and go into it.
+On crossroad after red arrow - go west.
+Grab chest and go east then south. Press button for yellow arrow to face west.
+Now go North > East
+The stairs here are the ones we skipped on area 8. Reach boss room again and teleport out.
+
+Continuing Main Quest - Demon Lord Castle.
+To progress this dungeon - you will need to craft Demon Blood Crystal Key accessory(will lose it after NG+) via the material that dropped from wolf + 2 materials from any of the 2 'Door Dungeon' bosses.
+You don't need it equipped but it's pretty neat glass cannon one.
+
+Demon Lord castle is first separated into 2 sections - western and eastern.
+You can do them in any order.
+
+Western section:
+Area 1 - First choice of western section which is 2 portals.
+Green - area 2
+Blue - area 12
+
+Area 2 - purely portal to area 3
+
+Area 3 - lore book + green portal to area 4
+
+Area 4 - red portal to area 5
+
+Area 5 - lore book +2 portal choices.
+Blue - area 6
+Red - area 12
+
+Area 6 - green portal to area 7
+
+Area 7 - this area has secret room if you go west but it seems to be fully empty.
+Blue portal to area 8
+
+Area 8 - red portal to area 9
+
+Area 9 - lore book + blue portal to area 10
+
+Area 10 - red portal to area 11
+
+Area 11 - room with orb. Orb is a miniboss fight. It's pretty high DEF, so you might want to debuff it with plague gem before committing to damage if you are using flame sword.
+Miniboss drops 'Upgraded Knight Armor'(one you could craft)
+Don't forget to actually touch orb after beating miniboss.
+
+Blue portal leads to area 1 but it can't be used to return here.
+
+Optional areas we skipped:
+Taking blue from area 1 sends you into area 12 which leads into area 5.
+Basically you missed nothing important at all.
+
+Eastern Section:
+Area 1 - choice between green/blue again.
+Green - area 2
+Blue - area 4
+
+Area 2 - red portal to area 3
+
+Area 3 - 2 portal choices.
+Eastern Red - area 4
+Blue - area 5
+
+Area 4 - lore book + blue portal.
+Blue portal leads back to area 1 so instead go back to area area 3 and take blue portal into area 5 there.
+
+Area 5 - green to area 6.
+
+Area 6 - blue to area 7.
+
+Area 7 - lore book + crystal bracelet level up chest.
+Green into area 8.
+
+Area 8 - blue to area 9
+
+Area 9 - red to area 10
+
+Area 10 - orb for miniboss fight. This one is squishier and in back row.
+It drops 'mana knight armor'(another one you could craft)
+Green portal is one way portal back to area 1.
+
+Once both orbs are done - proceed through main door.
+There is a lore book + a chest on the throne with yet another Rune of Plague(why we get so many of those? 0 Clue)
+
+Proceed into next area.
+You end up in a pretty dark area. This is a boss gauntlet consisting of 4 old bosses(one of which was optional).
+They aren't much stronger than original ones and drop same loot.
+I think this is mainly 'endurance'/test of your MP pool. Be aware that you will get to restore your HP/MP fully shortly after boss 4, so go ham on those bosses unless you are running very low.
+
+You can only walk on 'black' in this area. There seems to be no secrets in this area.
+
+Keep going linearly and defeating bosses.
+3rd is Jade Dragon who is very 'sturdy' so you might want to DEF debuff it. Wolf is fought only once so don't worry, he is kinda weak.
+
+Once you are past the wolf - touch the black flame to end up in next area.
+You can touch crystal heal to full heal and there is a teleporter if you want to fully leave the area.
+
+It's time to face the final boss of the game - there will be 4 fights.
+Best thing to do with Trina is almost certainly 'acceleration field'.
+
+In 1st fight boss is pretty weak. Just kill the flying sword first then debuff boss with plague gem and attack him.
+In 2nd boss fight.. well.. it's simply stronger version of 1st fight and the blades are protected by boss however they are still in frontline. Boss is more sturdy too. Debuff with plague gem and attack still works though. Since debuff is AoE - you might actually kill flying swords via follow up attacks.
+Be aware that even though you don't see it - debuff stacks until enemy stat is 50% so it makes sense to spam it each turn. Albeit with fire sword it should die on 2nd turn this way.
+
+3rd boss is the heart. Killed it in 2 turns and it didn't even do anything... I assume it might do something if you let it stick around long enough.. or not. Not sure.
+
+4th boss seems to be exact copy of 3rd fight.
+
+Side Quests:
+I will sort those by roughly 'availability' and try to mention alternative solutions to quests when there are some.
+
+Reward is almost always 'crystal of effort'(I will shorten it to effort, 5 effort for example) + cash but sometimes includes something else as well.
+
+All 'commission' quests are started on notice board of the adventure guild. I will not mention that and only mention rough availability instead.
+
+Some quests you can accept directly from NPC can also be accepted as 'commission'. How you accept them doesn't matter.
+
+1) Crafting Potion - available from start. Starts from granny south of your house.
+Simply go back into your house and grab materials near cauldron and craft the potion via them.
+
+Reward: Effort, Dark Mace Priest Ring accessory.
+
+2) Treasure Map - available from start. Starts from a kid inside the house near the granny house. This house is only visitable in morning/noon.
+
+The treasure itself is in the first 'forest' adventure area in the NW corner of it. It will be a shiny rocky spot.
+The moment you claim it - you get a 'Hidden Edge Greatsword'. This is one of the best weapons in the game. It's main downside is that it is two handed so you can't sub weapon slot anything while wearing it.
+
+The quest does not end however. Now you need to reward the kid with 'Chachamaru Soda'(blastfruit + white sugar ingredients. Alternatively spider slime x10 to craft syrup and use it instead of white sugar) to actually complete it for a bit EXP.
+
+Reward: Hidden Edge Greatsword(middle of the quest), 500 EXP to both(quest completion)
+
+3) Commission - Demonized Spider - available from start.
+As already mentioned above all 'commission' quests are in adventure guild notice board. All of them involve optional bosses that are usually pretty strong but can generally be done the moment you encounter them.
+If you have difficulty with the game - consult weapon section as it gives you info on best weapons to focus on.
+
+This spider is located in first adventure area in SW corner.
+
+Reward:1500 Cash. Claim reward from guild receptionist.
+
+4) Commission - Seeking a Model - available early into main quest progression(roughly abandoned mine entrance)
+Unlike other commissions - this one is non fight one.
+Visit small green roof house in western district(roughly eastern part of it).
+This opens up modeling for the guy once per day.
+This does NOT take up time.
+Doing it once completes the quest but you can keep modeling afterwards.
+1 time extra by default and 1 extra time at high corruption(level 3+).
+
+Each time you decide to model - you get a choice between training and going to wilderness with MC.
+Training gives Effort Crystals, Wilderness is some minor materials.
+You also get 1.2k cash.
+
+There are 3 H CG here - 1st visit, 2nd visit, 3rd visit at 3rd+ corruption level.
+
+5) Commission - Seeking a Venom Gland - available early into main quest progression(roughly abandoned mine entrance). Might need to sleep one day after entering abandoned mine and might need previous boss completion.
+Boss is near entrance of Abandoned mine 2nd area.
+After quest is done - you need to submit it in Western District house with blue roof near Training Ground.
+
+Reward: 5 Effort + 4k
+
+6) The Ladder of Success - quest starts in church from Nun. Available early into main quest progression, roughly same time as seeking venom gland sidequest, possibly even a bit earlier.
+
+This quest has some choices.
+
+Quest starts with a request to visit 2 adventurers in adventurer's guild building. You can either provide them with materials(5 effort) or simply memo(3 effort)
+
+Regardless of your choice - they will want to kill the 'venom gland' spider boss.
+
+If you manage to beat it before they disappear - you get nothing but they survive and quest ends upon reporting them.
+
+If you waited until they disappeared(~2-3 days if you gave them supplies and ~5-6 days if you didn't) - you will notice them near the boss. Boss fight starts with boss weakened.
+Upon fight conclusion - report to them for a reward of 10 effort + 2k or 4k(didn't give/gave supplies). On next day they will act as if you killed boss before them however, seemingly forgetting your help.
+
+If you wait too long - they will die. It's the 'bad' conclusion of this quest. Their bodies will be near the spider.
+
+Basically best solution is giving them supplies and then beating boss only AFTER they disappear. This way you not only get extra reward but also have an easier boss fight.
+
+7) Lost Horn - should be startable roughly at same time as previous few sidequests. Starts inside the 'Old Westwind Inn' of western district from Wendy(the Innkeeper)
+You need to speak with 3 people - Iris(adventurer, should be in training ground), Arwen(merchant, should be east of the inn sitting separately from all other merchants in his own mini stall, Shera(should find her if you talk with Nun in the church who will tell you she is in the room nearby recovering, you need anesthetic to talk to her - either buy from shop or craft via Belladonna + Poppy flowers)
+
+Once you find all 3 - you decide whom to hand over the Horn.
+While real owner is obviously Iris - she is also the one who is going to be least happy to receive it.
+
+The next day - go back to inn owner. She will tell you where the reward NPC will be located(not the place they were in)
+
+Each character will have different reward:
+Iris(will be inside this very inn - in room nearby next to Wendy in the morning) - Thuderush gem(M size, changes weapon element to lightning?)
+Arwen(inn 2nd floor 1st room to the east) - 5k silver.
+Shera(inn 2nd floor easternmost room) - 1k silver, 3 mana catalysts.
+
+This choice does NOT affect the appearance next Unicorn quest at all, so just choose based on reward you want.
+Iris gem reward seems unique if you are collectionist.
+
+8) Old Man's Sword - quest from Granny(the one who needed a potion)
+Need to complete some of the sidequests above and reach deep enough into abandoned mine before it becomes available.
+This might not appear in questlog if you accept it directly from grandma instead of adventure guild board but quest will go on regardless.
+
+The quest goal is simply repairing it in blacksmith shop. Should only need some basic materials you probably already have.
+
+Reward: 10 effort, 2 gems for socketing(ruby + resonant), Masterwork Rapier weapon, access to farm.
+It also hints you into 'synergy' system of gems. Some weapons can temporarily 'transform' into better weapons with certain gem combination. This weapon with Ruby + Resonant gems for example will get a tiny stat boost and a fire element attack.
+
+Farm info:
+Farm is accessed via a new wooden board that appeared near your house.
+Farm has up to 6 plots for 'seeds'. Each 'plot' requires tilling(80 stamina) to become permanently available. Each plot contains 5 seed spots and requires watering for them grow(5 stamina)
+Tilling skips one time fragment and rewards you +8 permanent MP on MC. So unlock all plots ASAP for longer dungeon explorations.
+
+9) Commission - Hunt the Unicorn - quest should be available a day or so after completing Unicorn Horn quest and accepting reward from NPC of your choice.
+
+Unicorn itself is in NE corner of adventure plains area(northern exit from northern district), this area has +5 STR permanent consumable book in chest by the way(albeit it's effect is not kept across NG+)
+
+You have 2 choices in this quest:
+Invite Shera to the hunt(she is on 2nd floor of inn easternmost room) or do it solo.
+1 - Solo - beat unicorn to get choice:
+Give horn to Shera - you go to Shera first but she refuses it and you can donate it to someone else afterwards. She says farewell herself and hints you where she moves on(east district) in person. But practically speaking this is identical to result from 'keep for yourself'.
+
+Keep for yourself - You keep horn. You can finish quest by talking to Wendy in the inn where you get letter from Shera and your Anesthetic potion back.
+
+Regardless of the choices - you can gift the horn to Arwen.
+Giving it to Arwen can only be done when he is selling things in marketplace(at noon) - that's if you didn't gift him horn previous time.
+If you gifted him horn already - he will already have his own real stall where he will always be staying(bottom row middle)
+Be aware you want to first complete THIS quest by submitting it to receptionist as it requires Unicorn Horn but won't take it away. If you give away Horn first - this quest will stay unsubmitted forever.
+You get 2.5k for finishing this quest in receptionist.
+
+2 - Invite Shera to hunt and beat unicorn:
+Shera will be around the place where you normally would have fought Unicorn solo. Shera will assist you while being out of party with some ultra weak attacks.
+You will get backstory about Shera and her reasoning for getting Horn.
+You will then need to deliver her the 'Moonfrost' potion(made from mana catalyst via recipe with 10 'effort crystals')
+As a consequence - you get Crystal of Snowflake gem from her + Unicorn Horn you can gift to Arwen afterwards.
+
+Best choices:
+Invite Shera, defeat unicorn with her and craft her moon potion afterward > Submit quest in adventure guild > Gift horn to Arwen.
+
+10) Commission: Crystal Spike Grass - this quest seems to have special unlock factors. First you seem to need to submit a few(1-2?) crystal spike grasses to Edgar. After that you want to keep Trina on high 'mana thirst' WITHOUT kissing her at night to satisfy her.
+When she is at high mana thirst and you don't kiss her - she automatically walks around at night and does some random actions to satisfy her mana thirst without you knowing. One of such actions is visiting Edgar.
+Once you notice visiting Edgar in her H details(might need certain amount of mana thirst satisfied via that, can confirm 87 but likely needs less) - you should find 'withered spike grass' in his shop shelf at the back.
+Roughly a day after you obtain 'withered grass' - this quest should trigger and you will get a new 'work' of delivering crates which takes whole days.
+This job and the stock of undelivered grasses play a role in getting some H scenes for Trina.
+Other than that it's just another one of jobs to get some cash.
+
+10) Side quest - Peacemaker - this is a quest which you get after giving unicorn horn to Arwen. It's the one that introduces you to guns and gives your first gun + bullets.
+Roughly a day after giving him horn - he will now have his own stall in marketplace instead of using his own separate tiny one.
+After getting the gun - equip it on MC and use it in battle(using gun costs nothing aside of bullets and can be done once per battle) via 'special' menu.
+To complete quest - you will need to use up all 3 bullets you were given. This allows you to report back to Arwen.
+From now on he will sell you bullets for the gun.
+Compelting the quest rewards you with alchemy recipe set that has everything gun related.
+
+11) Church: Charity Work - starts from Nun roughly a day after you unlock eastern district.
+It's a job during which you are given 'freedom' to your MC to move around in some otherwise closed parts of district when you are together - Brothel and Casino.
+This job can only be accessed on certain days, so if you don't see it availabel - simply sleep again.
+There is nothing in casino right now but brothel has a chest you can grab in hot springs.
+This job spends only 0.5 time units - meaning if you finish it without doing any other 0.5 time unit action - time will not move forward. You can finish any time you want by talking to Trina.
+In hot springs - there is a level up for 'crystal bracelet' and you can soak using up 0.5 time units.
+
+Equipment Details:
+Weapon choice in this game heavily matters as they affect the 'skills' available for your characters.
+
+Generally speaking the game rewards highly offensive playstyle and focusing on only one-two weapons for MC however due to upgrade currency being flat +1 ATK up to +99 and currency being rather limited considering how much you need unless you grind it out.
+
+For same reason - CRIT is usually more important than actual ATK as you can get ATK by forging but not the CRIT.
+
+By default 100 crit = 100% crit chance, I think a few enemies have a tiny crit resist but generally speaking it almost never happens and 100+ crit will guarantee the critical.
+
+To avoid cluttering guide too much - when weapon comes from unmissable main quest - I will simply list it as 'main quest progression'. Rough time you get it can be guessed easily as all weapons are sorted by rough order of you being able to get them.
+
+To shorten the 'toughness damage' I will simply use 'tough'. For example 3 tough.
+To shorten the 'cooldown'. I will simply use 'CD'. For example 2 CD = 2 turn cooldown. If cooldown is not mentioned then there is none(or I forgot to mention it has one in which case notify me).
+
+If damage is not mentioned - it's usually 'normal' damage variation. If damage is weaker or stronger than normal I usually write weak/major/massive damage and such. Usually using the terms game uses if game uses any.
+
+You can now enter Dusk Forest. It's accessed from eastern district east exit. That's also your goal.
+
+Equipment Crafting:
+In SE corner of western district is a blacksmith shop where you can craft things by
+
+Weapon Forging system:
+Almost all MC weapons can be forged until ~+100. Some a bit lower some a bit higher.
+Weapon forging is ultra trivial. Each forge gives + 1 ATK and at certain forges a weapon can get extra/better 'slots' for 'gems'.
+Gems are essentially simply another layer of equipment. You can freely equip/unequip them onto any weapon with no penalty.
+
+Weapon slots improve at +10, +30, +50, +70, +90.
+
+Getting new slot milestone unequips all gems but you don't lose them, don't worry.
+All weapons have identical weapon slot improves.
+
+At +90 you will have: 1 L, 2 M, 1 XL slots.
+
+MC weapons:
+Each weapon has own skill set and can either be one handed or two handed(can't equip sub weapon).
+I will only mention when a weapon is two handed. If it's not mentioned - it's 1 handed.
+
+I will also explain playstyle for weapons I recommend.
+
+Recommended weapon:
+1) Hidden Edge Greatsword - best early weapon with essentially guarantee crit by default.
+2) Flame Emitting Straight Sword - best end game weapon. Simple to use, extremely powerful.
+
+1) Adventurer's Rapier > Ice Crystal Rapier- starter weapon that can be crafted into better version in the blacksmith shop.
++20 ATK, +5 Crit > +40 ATK/EATK, +15 CRIT
+
+Adventurer Rapier Skills:
+Swift Sword(1 TP) - 1 tough single target.
+Hilt Strike(2 TP) - 1 CD at fight start. 3 tough. If enemy is already staggered - deal extra attack. If attack is what causes enemy to stagger - restore 1 TP. 2 CD after use.
+
+Ice Crystal Rapier Skills:
+Identical to Masterwork Rapier weapon(weapon 5 in my list)
+
+2) Foreign Crescent - sold for 5k in Edgar's Shop from start of game.
++5 ATK, +20 Crit
+
+Skills:
+Skill set focuses on 'expose' stacks. Expose stacks do nothing by default but grant extra effect for some skills.
+Expose is inflicted only upon enemy who plans to attack.
+
+Swift Blade(1 TP) - 1 expose, 1 tough single target.
+Shuttle Slash(2 TP) - 3 fully random hits which ignore distance. 1 expose, 1 tough each.
+Sweeping Strike(2 TP) - frontline AoE. 2 expose, 1 tough. 2 CD.
+
+Blade Sheath - skill which costs nothing and replaces your current main weapon skills into new 'combo' skill set on next turn. You are forced to use the skills one by one in order I mention them.
+Form 1 swift slash(1 TP) - 3 tough, if you stagger enemy with this then gives you +20% ATK buff.
+Form 2 edge breaker(1 TP) - tough damage equal to exposed stacks. If enemy is staggered after this skill - give -50% DEF debuff to it.
+Form 3 sky severance(1 TP) - frontline AoE. Triggers extra time for each staggered target. Staggered enemies take 100% more damage. Forces a turn end.
+
+As you can see this combo only consumes 3 TP and ends turn so you will certainly want some sub weapon to consume rest of TP.
+
+3) Hidden Edge Greatsword(2 Handed) - you can get it near start of the game via 'Treasure Map' sidequest.
++5 ATK, +120 CRIT.
+This is guaranteed crit against everyone.
+
+Weapon focuses on 'might' stacks. Some skills transform with enough might stacks.
+
+Skills:
+Heavy Slash(1 TP) - 2 tough single target. Gain 1 might if under 3.
+
+Thousand Pound Slash(5 TP) - each might stack reduces TP cost by 1. Gain 2 might. 3 tough powerful tier damage.
+Ten Thousand Pound Slash(0 TP) - replaces skill above with might 5+. Powerful gain 2 might skill with tough damage equal to might stacks. BUT if you kill(stagger is fine despite skill mentioning it's another exclusion) with this skill - you lose all might stacks including those you were supposed to get.
+Both have 1 CD.
+
+Gale Slash(5 TP) - two random powerful tier damage hits. Each might stack reduces TP cost by 1.
+Cyclone Slash(2 TP) - replaces skill above with might 3+. Lowers you down to 1 might stack and unleashes 1 powerful random hit for each might stack lost.
+Both have 1 CD.
+
+Kinetic Conversion(8 TP) - restores all TP.
+Super Kinetic Conversion(0 TP) - replaces skill above with might 8+. Gives outburst state and restores all TP
+Not really sure if outburst state does anything.
+3 Turn CD
+
+Turn End: whirling parry - essentially a turn ender which gives you up to 5 stacks of 'block'. Each block reduces damage by 0.5 of your DEF. If damage taken exceeds reduction - lose 1 might.
+If you have block stacks left at end of turn - they are converted into might. Basically if enemy doesn't attack during a turn - it can be up to free +5 might.
+
+Strategy:
+Among strongest weapons in the game if played correctly.
+
+Short battles generally play as: 3 heavy slashes > Cyclone slash for 3 regular hits(6 tough damage) + 2 random powerful hits(1 tough damage each)
+If you can/need to 'accelerate field'(+3 TP) via Trina - 3 heavy slashes > thousand pound slash > cyclone slash > heavy slash for 4 normal damage hits + 4 powerful damage hits.
+
+All of those will certainly critical hit due to insane CRIT on the weapon.
+
+Battles that you can't win in 1 turn are generally:
+3 heavy slash > thousand pound slash - end turn.
+If enemy didn't attack then you will have 10 stacks of might on turn 2.
+Turn 2 - ten thousand pount slash if you have an enemy this won't kill for +2 might stacks. If it's a boss then that's most certainly true.
+After that do the cyclone slash(7 hits is maximum so you will be left with 5 might if you had 12) > Kinetic Conversion(essentially restores 2 TP) > 5 Heavy Slashes.
+Needless to say - almost nothing can survive this.
+
+4) Rusted Sword of the Lake(2 Handed, non forgeable) - abandoned mine area 4, in the water near NE corner stoneslab.
+30 ATK/10 AGI/5 CRIT
+This weapon is a bit special since it participates with another weapon in crafting a weapon, so I will also list the other weapon here albeit you get it later than some other weapons. Both of those are unforgeable so certainly not worth bothering with.
+Corroded Greatsword(2 Handed, non forgeable) - main quest boss of abandoned mine.
+5 ATK/5 CRIT.
+
+Rusted Sword + Corroded Greatsword can be crafted into Gravekeeper Sword(2 Handed) via blacksmith.
+30 ATK/10 CRIT.
+
+Rusted Sword Skills:
+Identical to 'Straight Sword' weapon(described a bit further below as weapon 6)
+
+Corroded Greatsword Skills:
+Identical to 'Hidden Edge' greatsword.
+
+Greatkeeper Sword Skills:
+It's a copy of ALL the 'Hidden Edge' greatsword skills + 2 extra skills(3 if we count one 'high might' replacement).
+Sadly having those extra skills is not worth losing out on extra 100 crit rate from hidden edge greatsword.
+
+Sweeping Slash(1 TP) - frontline AoE, 1 tough, 1 might(if under 3 might)
+
+Ascending Slash(5 TP) - powerful single target, ignore distance, 2 tough. Each might stack reduces cost by 1.
+Ascending Meteor Slash(2 TP) - replaces skill above at 3+ might. Powerful single target, ignore distance, 2 tough. If you kill or stagger with this attack - unleash an all enemy AoE with power based on might stacks(very weak on low might stacks) and remove the might stacks.
+
+5) Masterwork Rapier - Old Man's Sword sidequest reward.
+Focuses on onslaught stacks which do nothing by themselves and are part of activating skill effects.
+
+Skills:
+Swift Sword Battle Hardened(1 TP) - 1 tough, 2 onslaught single target.
+Hilt Strike Battle Hardened(2 TP) - weak damage 3 tough(6 on crit). If enemy staggers - you get 1 TP back. 1 CD.
+Turn End: Guarded Assault - converts all onslaught into parry stacks(20% damage reduction)
+
+Skill pool changes upon 5 onslaught the skills above are replaced with these:
+Swift Sword +(1 TP) - 4 slightly weaker random hits. 1 tough each. -3 onslaught.
+Tactical Pause(2 TP) - removes most status effects, gives 20% ATK buff for 3 turns. +3 onslaught.
+Turn End: Blade of Determination - consume all stacks of onslaught, gain 10% crit chance per stack consumed, gain 5 stacks of parry and also reduce next damage taken by 100%.
+
+6) Straight Sword > Flame Emitting Straight Sword - Dusk Forest area 1 NE corner chest.
+40 ATK, 10 MP/AGI/CRIT > +20 MP, +60 ATK, +30 EATK, +10 AGI, +15 CRIT
+
+Straight Sword Skills:
+Focuses on 'knocking back' enemies into backrow from front row.
+Double Slash(1 TP) - deals 2 normal damage hits but only a total of 1 tough. If you attack staggered enemy - guarantee critical.
+Earth Splitter(3 TP) - powerful damage, 3 tough. Knockbacks enemy. If enemy does NOT get staggered - get airborne.
+Flying Kick(1 TP) - knockbacks enemy, 2 tough. 1 CD. Gives airborne if you knocked enemy back.
+Meteor Slash(1 TP) - appears if you got 'airborne' status. Removes Airborne status upon use but has no cooldown.
+
+Turn End: Block Coutner - spends all TP and gives you certain amount of 'shield' that fully absorbs damage. If you got shield hitpoints remaining after taking hit - counter enemy.
+Turn End: Dive Counter - replaces skill above if you got 'airborne' status. Consumes all TP, guarantees evasion+counterattack against one enemy attack.
+
+Flame Emitting Skills:
+Most skills remain BUT there are a few changes.
+
+Quadruple Slash(1 TP) - replaces double slash. Essentially an even better normal attack. The best in the game. 4 normal damage hits with guarantee crit on staggered but only 1 total tough damage.
+
+Lingering Embers(3 TP) - new skill. A buff which causes every 3 hits to cause an extra massive fire damage hit.
+This includes each individual hit by quadruple slash and the hits from sub weapons like Blade of Mercy which trigger extra hit upon critical.
+This makes it potentially strongest bossing weapon with optimized build.
+The fire damage hit scales from EATK.
+
+Strategy is very simple:
+Lingering Embers > Spam Quadruple slash. That's it. Acceleration field will boost turn 1 damage massively.
+Without acceleration it does poorly against bigger groups of enemies on turn 1.
+
+7) Thunderous Shattered Blade(2 handed, can't be forged) > - ruins past Dusk Forest dungeon. In main quest walkthrough I call it area 2 of ruins(going through door from initial ruin area)
+
+Thunderous Shattered Blade skills:
+Copy of Straight Sword + 1 extra skill.
+
+Lightning Stance(3 TP) - it's a buff which adds an extra lightning element hit for every 3 hits you deal. That hit also lowers enemy EDEF.
+
+8) Fool's Gold Rapier - missable, located in area 3 SW corner during stealth mission if you choose to infiltrate casino for the gem.
+80 ATK, -20 DEF/EDEF/EATK, +30 CRIT
+
+Skills:
+Copy of the starter weapon - adventurer's rapier but with a Turn End that you can use to spend TP to get 20% damage reduction parry stacks. Terrible skills basically.
+
+9) Ancient Blade - Northern Snowpeak dungeon area 2 NE corner chest.
++60 ATK, -20 EATK/EDEF, +30 CRIT
+
+Skills:
+Identical to Foreign Crescent Blade
+
+10) Lava-Forged Blade - Northern Snowpeak dungeon area 9(check main quest guide for area by area walkthrough) SE corner.
++70 ATK, +10 EATK, -20 DEF
+
+11) Demonbane Shattered Blade - main quest weapon that you will get upon entering demon king castle. This weapon will NOT stay with you upon NG+.
+ATK - 20, EATK +30
+
+Skills:
+Identical to Adventurer's Rapier but has end of turn effect which buffs your EATK by 20% and debuffs your DEF by 10%.
+The weapon has no real gameplay purpose, it's more of a story element.
+
+MC Sub Weapons:
+Sub weapons can't be upgraded via forge but usually do have extra skills or effects on top of stat changes.
+
+1) Blade of Mercy - Abandoned Mine dungeon area 2 near entrance to area 3(the one with tent).
++10 ATK, +5 DEF/AGI/CRIT
+
+Passive skill:
+ANY critical hit you inflict is followed up by a weak single target extra attack. Even AoE damage you inflict will get a follow up on each critical you did individually.
+This passive can trigger itself. So provided you have enough critical chance to guarantee critical hit - it will keep going.
+However be aware that there is 'hard cap' of hits you can do per one attack so this is less powerful than it sounds, especially since weak attacks often means such attacks will deal '1 damage' unless your ATK value is really high due to DEF essentially being flat reduction.
+
+Active Skill:
+Execution(3 TP) - deals triple damage if enemy is staggered. Restores 2 TP upon kill.
+
+2) Blade of Loyalty - Abandoned Mine dungeon area 5. Walk through water immediately east from entrance and take the steps south when you can, it's on the statue there.
+-20 EDEF, +5 AGI, +25 CRIT.
+
+Skills are exact copy of Blade of Mercy, only stats are different. This one is the more 'offensive' version.
+
+3) Coral Shortsword - should be craftable once you grab all loot in Abandoned Mine dungeon.
++5 ATK, +20 EATK, +10 EDEF
+
+Active Skill:
+Coral Swift Slash(1 TP) - a hit that debuffs enemy EDEF.
+
+4) Tiny Sickle > Drenched Tiny Sickle - from tiny treasure chest inside 'Ruins' dungeon area 4. Check main quest guide section if you are confused.
++20 AGI, +10 CRIT > 10 EATK, 30 ATK, 20 AGI
+
+Upgrading it is purely for stat increase.
+
+Active Skill:
+Gliding Lunge(2 TP) - powerful single target damage, 3 tough. 1 CD.
+
+Trina Weapons:
+Her weapons can't be forge upgraded. But they also give unique skills.
+
+If you don't want to waste MP on Trina in current battle/turn then simply use 'pray' skill which is always available and costs nothing.
+
+Unequipping Trina weapon is another option. If she has no weapon equipped - she can spend her 3 TP on 'normal attack'. She restores her TP for free, so that's pretty much 3 free attacks. Those are pretty weak attacks and they don't have tough damage however.
+
+1) Priest Staff - default weapon.
+10 ATK/AGI, 5 EATK/CRIT
+Acceleration field is noteworthy on this weapon as it can open up new burst strategies.
+
+Skills:
+Light Bullet - minor damage light element attack for 1 MP.
+Protection Field - increase party DEF for 1 turn. 2 MP.
+Acceleration field - +3 TP to brother for 10 MP with 1 turn cooldown. Often more powerful than her own offense.
+
+2) Divine Arbiter - main quest progression reward.
+20 MP/EATK, 10 AGI, 5 CRIT
+A great weapon for actual damage dealing against undead enemies.
+
+Light Arrow(4 MP) - massive single target light damage.
+Divine Arbiter(12 MP) - massive damage all enemy AoE.
+
+3) Sandalwood Bow > Sandalwood Greatbow > Bone Bow - Dusk Forest area 2 SW corner via hidden path.
+15 ATK, 5 CRIT > 45 ATK, -10 EATK, 20 CRIT > 75 ATK, 20 EATK/CRIT
+Unlike barehanded - bow can only shoot once per turn as it's not related to TP. It's basically a minor tough assist without using up mana.
+
+This one needs special mention since sandalwood resource is absurdly rare resource as it only drops in the forest from ONE enemy in the entire dungeon and yet you require insane amounts of it.
+The enemy you need looks like walking wood branches and they should be in Area 2 of Dusk forest near the cave entrance leading to fast travel point(area 2)
+What's worse? Respawning it is not even reliable. Not even sure what causes enemy respawns... might be some real time or something since it most certainly is not amount of area swaps.
+Unless devs change something about it - I recommend cheating those in.
+Use this website: https://www.saveeditonline.com/
+Put your save file from game folder > www > save > your save file number you want to edit(file 1 = slot 1, file 2 = slot 2 and so on)
+Now look for 'items' section there. You need items #115(sandalwood) and #116(bloody sandalwood)
+The item numbers are from v1.0.9 so there is small chance it will get changed with version updates.
+Once you are done editing those amounts - download the save file from the bottom of that website and replace the one in your game folder.
+
+If you lack Dragon Bone Crystals - be aware that you can alchemize 1 Intact Dragon Bone into 5 crystals.
+
+1st Bow Skills:
+Normal Attack: Shoot(nothing)- 2 random target attacks, each deals 1 tough.
+Wind Arrow(4 MP) - wind massive damage single target
+Light Arrow(4 MP) - light massive damage single target
+
+2nd Bow adds 1 new skill:
+Force Arrow(5 MP) - single target massive damage hit with also deals 3 tough.
+
+3rd bow is purely stat improve, no new skills.
+
+4) Blood Staff - you are technically supposed to be able to craft it during Dusk Forest, but devs messed up and the materials for it are essentially non existant. Read about the bow weapon above for details.
+25 MP, 48 EATK, 20 CRIT
+
+Skills:
+Dark Arrow(4 MP) - essentially a copy of dark disaster global spell but much cheaper.
+Kaleidoscop Ink(8 MP) - 3 random hits which also can inflict debuffs.
+Blood Storm(20 MP) - all enemy AoE with powerful damage and 1 tough damage to each enemy.
+Protection Field(2 MP) - same as priest staff one.
+
+5) Shining Sun - drops from Northern Snowpeaks dungeon area 5 optional boss Jade Dragon.
+5 MP, 60 EATK, 10 AGI, 5 CRIT
+This is essentially improved Divine Arbiter
+
+Skills:
+Identical to Divine Arbiter
+
+6) Dragonbone Staff - should be easy to craft after Snowpeak Dungeon.
+10 MP/ATK/AGI, 80 EATK, 5 CRIT
+This is basically a much more powerful 'Priest Staff'
+
+Skills:
+Multi Light Bullet(2 MP) - 3 random target hits, massive damage(yeah, game seems wrong about 'minor damage', damage is at least 'powerful').
+Protection Field: Dragon(5 MP) - DEF buff for 2 turns instead of 1 at slightly higer MP cost.
+Acceleration Field(10 MP) - same as priest staff one.
+
+7) Spider Sceptre - abandoned mine 'door dungeon' area 9.
+20 ATK, 10 MP, 25 EATK, 5 CRIT
+This is basically a weak ice element staff.
+
+Skills:
+Ice Bullet(1 MP) - ice element minor damage single target.
+Delay Field(2 MP) - 2 hits random target, 1 tough
+Web Storm(20 MP) - all enemy AoE, 1 tough
+
+Guns:
+Guns are fully optional and won't really be needed if you are using a good sword build.
+To unlock guns you need to give unicorn horn to Arwin after completing Unicorn Hunt sidequest.(it does NOT matter who got it in 1st unicorn horn quest)
+After that talk to him in his marketplace stall on the next day and he will give you a gun + 3 bullets.
+After that shoot from the gun he gives you 3 times and he will give you a recipe set with which you can alchemize everything gun related including all new guns.
+Since all guns are crafted this way - I won't list their acquisition and instead summ them up.
+
+Modern guns(revolver, shotgun, rifle) have unique ammo that can only be crafted when you own the weapon.
+
+Guns are fired 'for free' so their main downside is that the ammo actually costs cash and/or resources.
+
+Generally speaking revolver is 'always good' as it has big AGI with no stat penalties.
+Shotgun/Rifle are most 'powerful choice' if you plan to actually fire the guns. Shotgun for massive stagger damage and Rifle for it's DEF debuff paired with okay'ish staggering.
+
+Only MC can wear guns.
+Despite guns having different 'damage' in their skill descriptions the damage they deal is almost always negligible. Their only use is the stagger utility.
+
+Fastest way to grind materials for guns is by using 'infinite gathering spots' for stamina and skipping days after each gather.
+The beginner ores are inside abandoned mine tent fast travel area. It's hidden west there through invisible tunnel in the wall.
+The advanced ores are inside Northern Snowpeak dungeon. Fastest access is via the tent save point as well. Simply head 1 area south from the tent to reach it.
+Having more MP on MC slightly speeds this up.
+
+1) Flintlock Pistol - default gun you can shoot once per battle.
+Can shoot all 'generic' ammo.
+Lead shot - 2 tough single target physical
+Flame/Frost/Thunder - 1 tough single target of that element
+Scatter shot - frontline AoE with 1 tough. Double damage to staggered enemies.
+15 AGI
+
+2) Flintlock Blunderbuss - can only shoot scatter shot ammo. Has one shot of it by default. Can be reloaded for 4 TP. Useless gun.
+10 AGI
+
+3) Revolver - has 6 shots at battle start and is reloadable for 2 TP per shot.
+40 AGI
+Can use 2 ammo types:
+Brass Bullet - single target 2 tough damage.
+Hollow Point Bullet - single target 1 tough damage. Triple damage if enemy is staggered.
+
+4) Shotgun - has 2 shots at battle start and is reloadable for 2 TP per shot.
+-5 MP, -10 ATK/CRIT, +40 AGI
+Can use 2 ammo types:
+Scatter Shot - front AoE, 1 tough, double damage to staggered targets.
+Slug Round Blast - single target, 6 tough.
+
+5) Carbine Rifle - has 2 shots at battle start and is reloadable for 2 TP per shot.
+-5 MP, -10 ATK/CRIT, +40 AGI
+Has only 1 ammo type which deals single target 4 tough damage and reduces DEF of enemy by 30%.
+Reloadable for 2 TP per shot.
+
+6) Magic-Equipped Carbine - has 2 shots at battle start and is reloadable for 2 TP per shot.
+-5 MP, -10 ATK/CRIT, +20 EATK, +50 AGI
+Uses 'advanced' fire/frost/thunder bullets - same as regular ones but deal 2 tough instead.
+
+Armor/Accessories:
+I will only list some 'best in slot' ones or ones that will last you for a long time.
+
+Armor:
+Scale Armor is overall best for +20 HP, +50 DEF, +25 EDEF
+
+Be aware that you will get Upgraded Knight/Mana Knight armors from demon lord castle so if you are collectionist then don't craft them. Knight one is kinda similar to scale armor.
+
+Accessories:
+Mana Pendant - you will get quite a lot of those.
++50 EATK, +5 MP, -20 EDEF
+Essentially best in slot for Trina, alright for flame sword build MC.
+
+Dragon Claw Necklace - it's located in ruins door dungeon.
++10 ATK, +5 EATK, +10 CRIT. Also hidden effect of +10% ATK(includes stats from equipment/gems)
+
+Ice Silk Gloves - in northern snowpeak door dungeon(one via area 12)
++20 ATK/AGI, +5 DEF, +10 CRIT
+
+Special mention:
+Demon Blood Crystal Key - a temporary accessory you will make near end of game as part of main quest. Won't carry over into NG+ however.
++50 HP, -20 MP, +20 ATK, +80 EATK, -50 EDEF, +10 CRIT

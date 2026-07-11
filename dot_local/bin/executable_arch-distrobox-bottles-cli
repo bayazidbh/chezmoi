@@ -1,0 +1,10 @@
+#!/bin/sh
+# distrobox_binary
+# name: arch-distrobox
+if [ -z "${CONTAINER_ID}" ]; then
+	exec "/usr/bin/distrobox-enter"  -n arch-distrobox  --  '/usr/bin/bottles-cli'  "$@"
+elif [ -n "${CONTAINER_ID}" ] && [ "${CONTAINER_ID}" != "arch-distrobox" ]; then
+	exec distrobox-host-exec '/home/fenglengshun/.local/bin/bottles-cli' "$@"
+else
+	exec  '/usr/bin/bottles-cli' "$@"
+fi

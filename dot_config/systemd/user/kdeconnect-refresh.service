@@ -1,0 +1,6 @@
+[Unit]
+Description=Refresh KDE Connect device list
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/kdeconnect-cli --refresh

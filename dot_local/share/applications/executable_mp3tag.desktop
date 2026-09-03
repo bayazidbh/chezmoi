@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_SG]=Edit audio file tags and metadata
+Comment=Edit audio file tags and metadata
+Exec=env PROTON_ENABLE_WAYLAND=1 faugus-launcher /home/fenglengshun/Documents/Sync/Private/Apps/Windows/mp3tag/Mp3tag.exe
+GenericName[en_SG]=
+GenericName=
+Icon=mp3tag
+MimeType=
+Name[en_SG]=Mp3tag
+Name=Mp3tag
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=Mp3tag
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
